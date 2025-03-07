@@ -44,7 +44,7 @@ npm install -g react-native-cli
 
 Cloner le projet :
 
-git clone https://github.com/votre-repository/pepe-nero-recettes.git
+git clone https://github.com/e-lglioui/Carnet-de-Recettes.git
 cd pepe-nero-recettes
 
 Installer les dépendances :
@@ -64,3 +64,5 @@ npx react-native run-ios
 📜 Licence
 
 Ce projet est sous licence MIT.
+
+FATIMA EZZAHRA ELGLIOUI
